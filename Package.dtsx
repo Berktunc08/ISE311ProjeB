@@ -11,8 +11,8 @@
   DTS:LocaleID="1055"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="25"
-  DTS:VersionGUID="{4FE33236-EE75-4C09-B48D-59D4FF6ECF18}">
+  DTS:VersionBuild="26"
+  DTS:VersionGUID="{21E92F15-0606-4589-9D1A-217C12DECE1B}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -5131,7 +5131,7 @@
         <NodeLayout
           Size="141,42"
           Id="Package\Data Flow Task\CDC Source"
-          TopLeft="702,486" />
+          TopLeft="707,486" />
         <NodeLayout
           Size="156,42"
           Id="Package\Data Flow Task\Flat File Source"
@@ -5139,7 +5139,7 @@
         <NodeLayout
           Size="144,42"
           Id="Package\Data Flow Task\Excel Source"
-          TopLeft="831,551" />
+          TopLeft="811,555" />
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
